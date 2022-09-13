@@ -1,7 +1,6 @@
 # Project Name
 > Outline a brief description of your project.
 
-
 ## Table of Contents
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
